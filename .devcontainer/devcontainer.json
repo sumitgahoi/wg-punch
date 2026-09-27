@@ -1,0 +1,4 @@
+{
+  "name": "wg-punch",
+  "image": "mcr.microsoft.com/devcontainers/go:1.27-bookworm"
+}
